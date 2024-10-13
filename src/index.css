@@ -1,0 +1,36 @@
+body{
+  margin:0;
+  padding:0;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1{
+  text-align: center;
+}
+form{
+  justify-content: center;
+  width:90%;
+  height:60%;
+  background-color: black;
+  margin:20%;
+  padding:10%;
+  color:white;
+
+}
+input{
+  width:50%;
+  height:35px;
+  border:2px solid black;
+  font-size: 15px;
+  margin:10px;
+}
+button{
+  background-color: gold;
+  color:black;
+  width:90%;
+  height:35px;
+  margin:10px;
+
+}
